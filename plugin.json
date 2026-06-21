@@ -1,0 +1,21 @@
+{
+  "id": "com.kaka.cssvarautocomplete",
+  "name": "CSS Var Autocomplete",
+  "main": "main.js",
+  "version": "1.0.1",
+  "readme": "readme.md",
+  "changelogs": "changelog.md",
+  "icon": "icon.png",
+  "files": [],
+  "price": 0,
+  "minVersionCode": 290,
+  "license": "MIT",
+  "keywords": ["css", "autocomplete", "variable", "hint", "var"],
+  "repository": "https://github.com/Panggil-aja-Kaka/css-var-autocomplete-acode-plugin",
+  "author": {
+    "name": "Bayanaka",
+    "email": "",
+    "url": "",
+    "github": ""
+  }
+}
