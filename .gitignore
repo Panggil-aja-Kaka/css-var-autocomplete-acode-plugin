@@ -7,3 +7,4 @@ postcss.config.js
 tsconfig.json
 typings/
 package-lock.json
+package.json
